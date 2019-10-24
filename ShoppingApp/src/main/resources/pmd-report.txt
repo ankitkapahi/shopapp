@@ -1,0 +1,114 @@
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:23:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:23:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:29:	LongVariable: Avoid excessively long variable names like productsRepository
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:29:	LongVariable: Avoid excessively long variable names like productsRepository
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:35:	LongVariable: Avoid excessively long variable names like EMPLOYEE_USER_TYPE_CODE
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:35:	LongVariable: Avoid excessively long variable names like EMPLOYEE_USER_TYPE_CODE
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:40:	LongVariable: Avoid excessively long variable names like AFFILIATED_USER_TYPE_CODE
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:40:	LongVariable: Avoid excessively long variable names like AFFILIATED_USER_TYPE_CODE
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:79:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:79:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:84:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:84:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:85:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:85:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:123:	MissingOverride: The method 'calculateConditionBasedDiscount(String, List, int)' is missing an @Override annotation.
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:123:	MissingOverride: The method 'calculateConditionBasedDiscount(String, List, int)' is missing an @Override annotation.
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:124:	LongVariable: Avoid excessively long variable names like daysUserExistInSystem
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:124:	LongVariable: Avoid excessively long variable names like daysUserExistInSystem
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:132:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/com/xebia/app/service/impl/ProductsServiceImpl.java:132:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/com/xebia/app/controller/HomeController.java:22:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/xebia/app/controller/HomeController.java:22:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/xebia/app/controller/HomeController.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/xebia/app/controller/HomeController.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/xebia/app/controller/HomeController.java:35:	AvoidDuplicateLiterals: The String literal "username" appears 4 times in this file; the first occurrence is on line 35
+src/main/java/com/xebia/app/controller/HomeController.java:35:	AvoidDuplicateLiterals: The String literal "username" appears 4 times in this file; the first occurrence is on line 35
+src/main/java/com/xebia/app/controller/HomeController.java:36:	LocalVariableCouldBeFinal: Local variable 'model' could be declared final
+src/main/java/com/xebia/app/controller/HomeController.java:36:	LocalVariableCouldBeFinal: Local variable 'model' could be declared final
+src/main/java/com/xebia/app/controller/HomeController.java:49:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/xebia/app/controller/HomeController.java:49:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/xebia/app/controller/HomeController.java:49:	EmptyCatchBlock: Avoid empty catch blocks
+src/main/java/com/xebia/app/controller/HomeController.java:49:	EmptyCatchBlock: Avoid empty catch blocks
+src/main/java/com/xebia/app/controller/HomeController.java:82:	LongVariable: Avoid excessively long variable names like daysUserExistInSystem
+src/main/java/com/xebia/app/controller/HomeController.java:82:	LongVariable: Avoid excessively long variable names like daysUserExistInSystem
+src/main/java/com/xebia/app/controller/HomeController.java:87:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/xebia/app/controller/HomeController.java:87:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/xebia/app/controller/HomeController.java:87:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/xebia/app/controller/HomeController.java:87:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/xebia/app/controller/HomeController.java:87:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/xebia/app/controller/HomeController.java:87:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/xebia/app/controller/HomeController.java:99:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/xebia/app/controller/HomeController.java:99:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/xebia/app/controller/HomeController.java:99:	EmptyCatchBlock: Avoid empty catch blocks
+src/main/java/com/xebia/app/controller/HomeController.java:99:	EmptyCatchBlock: Avoid empty catch blocks
+src/main/java/com/xebia/app/controller/HomeController.java:108:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/xebia/app/controller/HomeController.java:108:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/xebia/app/controller/HomeController.java:109:	LocalVariableCouldBeFinal: Local variable 'model' could be declared final
+src/main/java/com/xebia/app/controller/HomeController.java:109:	LocalVariableCouldBeFinal: Local variable 'model' could be declared final
+src/main/java/com/xebia/app/controller/HomeController.java:110:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'model'
+src/main/java/com/xebia/app/controller/HomeController.java:110:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'model'
+src/main/java/com/xebia/app/controller/HomeController.java:114:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/xebia/app/controller/HomeController.java:114:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/xebia/app/controller/HomeController.java:115:	LocalVariableCouldBeFinal: Local variable 'model' could be declared final
+src/main/java/com/xebia/app/controller/HomeController.java:115:	LocalVariableCouldBeFinal: Local variable 'model' could be declared final
+src/main/java/com/xebia/app/controller/HomeController.java:116:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'model'
+src/main/java/com/xebia/app/controller/HomeController.java:116:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'model'
+src/main/java/com/xebia/app/repository/ProductsRepository.java:15:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/xebia/app/repository/ProductsRepository.java:15:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/xebia/app/repository/ProductsRepository.java:15:	CommentRequired: Header comments are required
+src/main/java/com/xebia/app/repository/ProductsRepository.java:15:	CommentRequired: Header comments are required
+src/main/java/com/xebia/app/repository/ProductsRepository.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/xebia/app/repository/ProductsRepository.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/xebia/app/repository/ProductsRepository.java:18:	CommentRequired: Field comments are required
+src/main/java/com/xebia/app/repository/ProductsRepository.java:18:	CommentRequired: Field comments are required
+src/main/java/com/xebia/app/repository/ProductsRepository.java:31:	LongVariable: Avoid excessively long variable names like SQL_SELECTED_PRODUCTS
+src/main/java/com/xebia/app/repository/ProductsRepository.java:31:	LongVariable: Avoid excessively long variable names like SQL_SELECTED_PRODUCTS
+src/main/java/com/xebia/app/repository/ProductsRepository.java:35:	LongVariable: Avoid excessively long variable names like SQL_USER_EXISTENCE_DAYS
+src/main/java/com/xebia/app/repository/ProductsRepository.java:35:	LongVariable: Avoid excessively long variable names like SQL_USER_EXISTENCE_DAYS
+src/main/java/com/xebia/app/repository/ProductsRepository.java:37:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/xebia/app/repository/ProductsRepository.java:37:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/xebia/app/repository/ProductsRepository.java:37:	DataflowAnomalyAnalysis: Found 'UR'-anomaly for variable 'row' (lines '37'-'44').
+src/main/java/com/xebia/app/repository/ProductsRepository.java:37:	DataflowAnomalyAnalysis: Found 'UR'-anomaly for variable 'row' (lines '37'-'44').
+src/main/java/com/xebia/app/repository/ProductsRepository.java:39:	LocalVariableCouldBeFinal: Local variable 'products' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:39:	LocalVariableCouldBeFinal: Local variable 'products' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:39:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/xebia/app/repository/ProductsRepository.java:39:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/xebia/app/repository/ProductsRepository.java:40:	LocalVariableCouldBeFinal: Local variable 'rows' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:40:	LocalVariableCouldBeFinal: Local variable 'rows' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:42:	LocalVariableCouldBeFinal: Local variable 'row' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:42:	LocalVariableCouldBeFinal: Local variable 'row' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:43:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/xebia/app/repository/ProductsRepository.java:43:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/xebia/app/repository/ProductsRepository.java:43:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:43:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:54:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/xebia/app/repository/ProductsRepository.java:54:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/xebia/app/repository/ProductsRepository.java:54:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:54:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:59:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/xebia/app/repository/ProductsRepository.java:59:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/xebia/app/repository/ProductsRepository.java:59:	DataflowAnomalyAnalysis: Found 'UR'-anomaly for variable 'selectedProduct' (lines '59'-'64').
+src/main/java/com/xebia/app/repository/ProductsRepository.java:59:	DataflowAnomalyAnalysis: Found 'UR'-anomaly for variable 'selectedProduct' (lines '59'-'64').
+src/main/java/com/xebia/app/repository/ProductsRepository.java:59:	MethodArgumentCouldBeFinal: Parameter 'selectedProducts' is not assigned and could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:59:	MethodArgumentCouldBeFinal: Parameter 'selectedProducts' is not assigned and could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:59:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/main/java/com/xebia/app/repository/ProductsRepository.java:59:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/main/java/com/xebia/app/repository/ProductsRepository.java:61:	LocalVariableCouldBeFinal: Local variable 'products' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:61:	LocalVariableCouldBeFinal: Local variable 'products' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:61:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/xebia/app/repository/ProductsRepository.java:61:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/xebia/app/repository/ProductsRepository.java:62:	LocalVariableCouldBeFinal: Local variable 'selectedProduct' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:62:	LocalVariableCouldBeFinal: Local variable 'selectedProduct' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:64:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/xebia/app/repository/ProductsRepository.java:64:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/xebia/app/repository/ProductsRepository.java:64:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/xebia/app/repository/ProductsRepository.java:64:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/xebia/app/repository/ProductsRepository.java:64:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:64:	LocalVariableCouldBeFinal: Local variable 'product' could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:72:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/xebia/app/repository/ProductsRepository.java:72:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/xebia/app/repository/ProductsRepository.java:72:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
+src/main/java/com/xebia/app/repository/ProductsRepository.java:72:	MethodArgumentCouldBeFinal: Parameter 'userName' is not assigned and could be declared final
